@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantarell:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.image-title{
+    position: relative;
+    background-position: right;
+    right: 30%;
+    width: 50px;
+    height: auto;
+}
+
+.logo-menu{
+    position: relative;
+    transform: translateY(-1100px);
+    display: flex;
+    justify-content: space-between;
+}
+
+.acceuil{
+    color: #fff;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.wakanda{
+    color: #fff;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.enigme{
+    color: #fff;
+    text-decoration: none;
+    font-style: normal;
+}
+
+ul{
+   
+}
+
+.logo{
+   height: 20px;
+   margin-left: 10%;
+}
+
+.texte-origine{
+    position: relative;
+    transform: translateY(-800px);
+}
+
+.texte-wakanda{
+    position: relative;
+    transform: translateY(-300%);
+    margin-left: 10%;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    flex: 0.3;
+    text-decoration: none;
+    border: none;
+    color: #0e40a3;
+    width: 50px;
+    margin-right: 10%;
+}
+
+
+body{
+    font-family: 'Cantarell';
+    background-color: #02060e;
+    font-weight: 400;
+    font-size: medium;
+    font-style: italic;
+}
+
+p{
+    color: #fff;
+    width: 40%;
+    height: 20%;
+}
+
+h1, h2, h3, h4, h5{
+    color: #d1aecf;
+}
+
+.container{
+    font-family: 'cantarell';
+    font-weight: 100;
+    font-size: 1em;
+    font-style: normal;
+    -webkit-animation: alternate;
+    margin-left: 10%;
+}
+
+.texte-video{
+    position: relative;
+    transform: translateY(-800px);
+    border: 50px solid rgb(50, 50, 190);
+    background-color: rgb(50, 50, 190);
+}
+
+.texte-panther{
+    position: relative;
+    background-position: right;
+    left: 600px;
+    transform: translateY(-1640px);
+    margin-right: 10%;
+}   
+.texte-cinema{
+    position: relative;
+    background-position: 0%;
+    transform: translateY(-1100px);
+    margin-right: 10%;
+}
+
+.texte-fight{
+    position: absolute;
+    margin-top: -240%;
+    background-position: left;
+    left: 600px;
+    width: 105%;
+    margin-left: 10%; 
+}
+
+.texte-force{
+    position: relative;
+    background-position: 10%;
+    transform: translateY(-2500px);
+    left: 600px;
+    margin-right: 10%;
+}
+
+.texte-anectodes{
+    position: absolute;
+    margin-top: -160%;
+    background-position: left;
+    left: 600px;
+    width: 105%;
+    margin-left: 10%;
+}
+
+.links-column{
+    text-emphasis-color: #fff;
+    color: #fff;
+}
+
+h1{
+    font-family: 'cantarell';
+    font-size: 43px;
+}
+
+.profile-image{
+   position: relative;
+   transform: scale(0.8);
+   margin-top: -600px;
+   right: 25%;
+   font-weight: 100;
+   
+}
+
+.image-military{
+    position: absolute;
+    margin-top: -2000px;
+    left: 50%;
+}
+
+/*Footer*/
+.back-image{
+    position: relative;
+    transform: translateY(-1300px);
+}
+.image-logo{
+    position: relative;
+    background-position: center;
+    transform: translateY(-435%);
+}
+
+.image-footer2{
+    width: 10px;
+    position: relative;
+    background-position: center;
+    transform: translateY(-220px);
+    left: 7.5%;
+}
+
+.links-column{
+   position: relative;
+   transform: translateY(-2350%);
+   left: 50%;
+}
+
+.a-propos{
+    color: #fff;
+    text-decoration: none;
+    font-family: 'cantarell';
+    font-style: normal;
+    position: relative;
+    right: 3.5%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.wakanda{
+    color: #fff;
+    text-decoration: none;
+    font-family: 'cantarell';
+    font-style: normal;
+    position: relative;
+    right: 3.5%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-contact{
+    position: relative;
+    transform: translateY(-2235px);
+    left: 80%;
+    margin: 25px;
+    gap: 25px;
+}
+
+.facebook{
+    background-color: #b67474;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.instagram{
+    background-color: #882f7c;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.twitter{
+    background-color: #29017444;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.tiktok{
+    background-color: #020481e3;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.footer-end{
+    position: absolute;
+    margin-top: -160%;
+    text-align: center;
+    left: 40%;
+    gap: 10;
+}
+
+.end-date{
+    color: #fff;
+    text-decoration: none;
+}
+
+.end-politique{
+    color: #fff;
+    text-decoration: none;
+}
+
+.end-condition{
+    color: #fff;
+    text-decoration: none;
+    position: relative;
+}
+
